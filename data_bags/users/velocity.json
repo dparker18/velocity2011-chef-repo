@@ -1,0 +1,13 @@
+{
+  "id": "velocity",
+  "ssh_keys": "SSH_PUB_KEY",
+  "groups": "sysadmin",
+  "uid": 2001,
+  "shell": "\/bin\/zsh",
+  "comment": "Velocity Demonstration",
+  "nagios": {
+    "pager": "8005551212@txt.att.net",
+    "email": "velocity@example.com"
+  },
+  "htpasswd": "{SHA}Cw0EMbJUa4ZEWYJRYaD1clCzFtE="
+}
